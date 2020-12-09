@@ -1,9 +1,9 @@
 
 <?php
-$username = "root"; // Khai báo username
-$password = "mysql";      // Khai báo password
-$server   = "localhost";   // Khai báo server
-$dbname   = "webtotinh";      // Khai báo database
+$username = "sql9381070"; // Khai báo username
+$password = "DQyHCbSghF";      // Khai báo password
+$server   = "sql9.freemysqlhosting.net";   // Khai báo server
+$dbname   = "sql9381070";      // Khai báo database
 
 // Kết nối database tintuc
 $con = mysqli_connect($server, $username, $password, $dbname);
