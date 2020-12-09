@@ -13,7 +13,7 @@ include('./db/ketnoi.php');
 <div class="col-md-12">
                 <h4>Liệt kê tin nhắn</h4>
                 <?php
-                    $sql_select = mysqli_query($con,"SELECT * FROM tbl_totinh ORDER BY id DESC");
+                    $sql_select = mysqli_query($con,"SELECT * FROM sql9381070 ORDER BY id DESC");
                 ?>
                 <table class="table table-bordered">
                     <tr>
