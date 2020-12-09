@@ -9,7 +9,6 @@
 </head>
 <body>
   <form action="xuly.php" method="POST">
-  <form action="https://api.slapform.com/huykhangvo02092000@gmail.com" method="POST">
   <div class="container">
     <div class="row">
       <div class="col">
